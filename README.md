@@ -1,1 +1,10 @@
 # happy-branching
+
+## Create test-branch:
+
+`git branch test-branch`
+
+## Switch to test-branch:
+
+`git checkout test-branch`
+
